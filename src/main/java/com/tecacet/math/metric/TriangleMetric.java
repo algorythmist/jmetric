@@ -2,7 +2,6 @@ package com.tecacet.math.metric;
 
 /**
  * Distance by sum of absolute value of differences (L1)
- * 
  */
 public class TriangleMetric implements VectorMetric {
 
