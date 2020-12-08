@@ -7,7 +7,8 @@ import java.util.function.BiFunction;
 /**
  * Metric decorator that caches calculated distances to avoid re-calculating them
  *
- * @param <T>
+ * @param <T> the type of elements in the metric space
+ * @param <K> the type of the key used to retrieve distances
  * @author dimitri
  */
 public class CachingMetric<T, K> implements Metric<T> {

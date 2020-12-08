@@ -8,7 +8,7 @@ package com.tecacet.math.metric;
  * for any two points x,y (symmetry) {@literal D(x,y)+D(y,z) <= D(x,z)}
  * (triangle inequality)
  *
- * @param <T> the element in the metrizable space
+ * @param <T> the type of elements in the metric space
  */
 public interface Metric<T> {
     /**

@@ -2,7 +2,6 @@ package com.tecacet.math.metric;
 
 import org.apache.commons.math3.stat.correlation.PearsonsCorrelation;
 
-
 public class PearsonDistanceMetric implements VectorMetric {
 
     private final PearsonsCorrelation pearsonsCorrelation = new PearsonsCorrelation();

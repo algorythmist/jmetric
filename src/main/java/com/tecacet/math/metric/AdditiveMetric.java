@@ -4,7 +4,6 @@ package com.tecacet.math.metric;
 /**
  * The sum or average of two or more metrics, which is trivially also a metric
  *
- * @param <T>
  * @see Metric
  */
 public class AdditiveMetric<T> implements Metric<T> {
