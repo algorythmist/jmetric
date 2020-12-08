@@ -1,6 +1,6 @@
 # jmetric
 
-Distance metrics and norms implementations in Java
+Distance metrics and norm implementations in Java
 
 - Euclidean
 - Manhattan
