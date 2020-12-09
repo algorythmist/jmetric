@@ -13,6 +13,7 @@ package com.tecacet.math.metric;
 public interface Metric<T> {
     /**
      * The distance between two vectors
+     *
      * @param v1 the first vector
      * @param v2 the second vector
      * @return the distance according to this metric
