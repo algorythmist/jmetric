@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>jmetric</artifactId>
-    <version>0.1.3-SNAPHSOT</version>
+    <version>0.1.3-SNAPSHOT</version>
 
     <name>jmetric</name>
     <description>
