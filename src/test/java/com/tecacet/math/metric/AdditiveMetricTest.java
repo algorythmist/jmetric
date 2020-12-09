@@ -4,9 +4,6 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.tecacet.math.metric.AdditiveMetric;
-import com.tecacet.math.metric.Metric;
-
 class TestMetric implements Metric<Integer> {
 
     @Override
@@ -15,6 +12,7 @@ class TestMetric implements Metric<Integer> {
     }
 
 }
+
 
 public class AdditiveMetricTest {
 
